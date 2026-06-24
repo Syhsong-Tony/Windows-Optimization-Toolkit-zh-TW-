@@ -10,6 +10,8 @@ This is a \*\*Windows desktop optimization toolkit\*\* written in batch script, 
 
 
 
+Keyword: 「Windows Optimization」「Batch Script」「System Cleanup」「Performance Tuning」
+
 \---
 
 
@@ -54,9 +56,9 @@ This is a \*\*Windows desktop optimization toolkit\*\* written in batch script, 
 
 &#x20;   Windows系統效能快速優化.bat
 
-&#x20;   
+&#x20;
 
-&#x20;   先解壓縮把 .bat批次檔, 放在電腦中, D槽或桌面都可以, 
+&#x20;   先解壓縮把 .bat批次檔, 放在電腦中, D槽或桌面都可以,
 
 &#x20;   然後，點它右鍵, 「以系統管理員身份執行」，
 
